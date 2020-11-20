@@ -9434,6 +9434,16 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
+  -ms-touch-action: auto;
+  touch-action: auto;
+}
+
+.owl-carousel{ 
+  -ms-touch-action: auto; 
+  touch-action: auto; 
+}
+
 #ftco-loader {
   position: fixed;
   width: 96px;

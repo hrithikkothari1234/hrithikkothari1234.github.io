@@ -2,4 +2,4 @@
 
 Trying to keep it up-to-date 
 
-* Link : hrithikkothari1234.github.io/
+* Link :<a href="hrithikkothari1234.github.io/" target="_blank">hrithikkothari1234.github.io/</a>
